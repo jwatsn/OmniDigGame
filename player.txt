@@ -1,0 +1,10 @@
+WorldObj Player
+{
+	%mass = 1;
+	%jaBroni = 2;
+};
+
+WorldObj YoBro
+{
+	%mass = 1;
+};
